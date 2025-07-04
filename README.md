@@ -78,4 +78,4 @@ Closes the program.
 
 ---
 
-If you have any questions or want to add more features, feel free to ask! 
+ 
